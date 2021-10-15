@@ -1,6 +1,6 @@
 // Assignment-2
 
-// Pollyfill (own implementation) for join,split & reverse.
+// Pollyfill (own implementation) for join,split & reverse method.
 
 // Pollyfil for join:-
 
